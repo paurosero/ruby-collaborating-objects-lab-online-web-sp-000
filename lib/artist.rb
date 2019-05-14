@@ -23,7 +23,7 @@ class Artist
     @song_name
   end
 
-  def save.all
+  def save
     @@all << self
   end
 end
