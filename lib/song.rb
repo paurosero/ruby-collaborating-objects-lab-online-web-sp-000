@@ -10,7 +10,7 @@ class Song
     artist.add_song(self)
   end
   
-  def self.new_by_filename(file_name)
+  def self.new_by_filename(name)
   
   end
 end
