@@ -5,5 +5,12 @@ class MP3Importer
     
   end
   
+  def MP3Importer_file
+    
+  end
+  
+  def MP3Importer_import
+    
+  end
   
 end
