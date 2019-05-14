@@ -10,7 +10,7 @@ class MP3Importer
   end
   
   def import
-    files.each {|song| 
+    files.each {f| 
   end
   
 end
